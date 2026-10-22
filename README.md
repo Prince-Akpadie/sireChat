@@ -21,14 +21,23 @@ Technology Stack
 
 Technology	Purpose
 React	User interface
+
 JavaScript	Application logic
+
 Vite	Development and production builds
+
 Firebase Authentication	User authentication
+
 Cloud Firestore	User profiles and chat-related data
+
 Cloudinary	Image and video uploads
+
 React Router	Client-side navigation
+
 React Toastify	Notifications
+
 ESLint	Code quality checks
+
 Vercel	Deployment and hosting
 
 Getting Started
